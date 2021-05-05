@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1620146507302" stop="1620146507477">
+  <name>test_result</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1620146507302" status="failed" stop="1620146507475">
+      <name>TestResult.test_10</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;test_result.TestResult object at 0x000002013C5945E0&gt;
+
+    @pytest.mark.run(order=10)
+    def test_10(self):
+        print('这是test_10')
+&gt;       assert 0
+E       assert 0
+
+scripts\test_result.py:16: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10332-MainThread"/>
+        <label name="host" value="LIWEI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1620146507475" status="passed" stop="1620146507477">
+      <name>TestResult.test_20</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10332-MainThread"/>
+        <label name="host" value="LIWEI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

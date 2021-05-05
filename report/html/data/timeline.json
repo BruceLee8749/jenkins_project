@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LIWEI",
+    "children" : [ {
+      "name" : "21672-MainThread",
+      "children" : [ {
+        "name" : "TestResult.test_20",
+        "uid" : "6f58f6a85f1ffe4a",
+        "parentUid" : "432db71406b0b24e6bcefe2e2108bc79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620145500684,
+          "stop" : 1620145500686,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestResult.test_10",
+        "uid" : "34eb12df4ef85c79",
+        "parentUid" : "432db71406b0b24e6bcefe2e2108bc79",
+        "status" : "failed",
+        "time" : {
+          "start" : 1620145500458,
+          "stop" : 1620145500682,
+          "duration" : 224
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "432db71406b0b24e6bcefe2e2108bc79"
+    } ],
+    "uid" : "e5ce5b85343deaa0cdbd60c40d1fb33c"
+  } ]
+}

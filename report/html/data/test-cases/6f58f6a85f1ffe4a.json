@@ -1,0 +1,61 @@
+{
+  "uid" : "6f58f6a85f1ffe4a",
+  "name" : "TestResult.test_20",
+  "fullName" : "test_result.TestResult.test_20",
+  "historyId" : "d10829ce8ed245c352846d29dfd50f4",
+  "time" : {
+    "start" : 1620145500684,
+    "stop" : 1620145500686,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LIWEI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "21672-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_result"
+  }, {
+    "name" : "testClass",
+    "value" : "test_result"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestResult.test_20"
+  }, {
+    "name" : "package",
+    "value" : "test_result"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f58f6a85f1ffe4a.json",
+  "parameterValues" : [ ]
+}

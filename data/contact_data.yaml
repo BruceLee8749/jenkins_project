@@ -1,0 +1,19 @@
+test_contact01:   # This is for test_contact01 module testcase
+  test_contact01_001:
+    name: 'Hangman'
+    phone: '123456789101'
+  test_contact01_002:
+    name: 'Sang'
+    phone: '123456789102'
+
+test_contact02:   # This is for test_contact02 module testcase
+  test_contact02_001:
+    name: 'Wangling'
+    age: 18
+    height: '165cm'
+  test_contact02_002:
+    name: 'Xiaomi'   
+    age: 17
+    height: '170cm'
+
+
